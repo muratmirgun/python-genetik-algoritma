@@ -1,2 +1,2 @@
-# python-genetik-algoritma
-python ile yazılmış basit genetik algoritma örneği
+# Simple genetic algorithm
+Simple genetic algorithm example written in python
